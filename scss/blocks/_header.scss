@@ -149,7 +149,6 @@ h1 {
     ul {
         @media (max-width:$tablet) {
             flex-direction: column;
-            background-color: white;
             margin-top: -20px;
             text-align: left;
             margin-left: -28px;
@@ -164,7 +163,7 @@ h1 {
         z-index: 101;
         background-color: white;
         padding: 30px;
-        width: 100%;
+        width: 90%;
         transform: translateX(-100%);
         transition: 0.3s ease;
     }   
